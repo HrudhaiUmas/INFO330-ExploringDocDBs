@@ -2,6 +2,9 @@
 # FILE DIRECTORY FOR JUSTIN:
 
 * sqlite_to_mongo_collection transformation file [link to file](sqlite_to_mongo_collection.py)
+* Queries: [link to file with queries](queries.py)
+* Extra Credit 2, new battle file with improved code: [link to new battle file](EXTRACREDIT_improved_battle_py_file.py)
+* Video (includes extra credit 1 + recording of all files made and ran in terminal: [link to video(might have to download)](ExtraCredit1_and_query_recordings.mp4)
 
 # INFO330: Exploring Document Databases
 A homework assignment for my INFO 330 course, building around the Pokemon CSV file from [INFO330-CreatingRelations2](https://github.com/tedneward/INFO330-ExploringRelations2).
