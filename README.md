@@ -1,8 +1,7 @@
 
 # FILE DIRECTORY FOR JUSTIN:
 
-* sqlite_to_mongo_collection transformation file: [sqlite_to_mongo_collection.py](link to file)
-
+* sqlite_to_mongo_collection transformation file [link to file](sqlite_to_mongo_collection.py)
 
 # INFO330: Exploring Document Databases
 A homework assignment for my INFO 330 course, building around the Pokemon CSV file from [INFO330-CreatingRelations2](https://github.com/tedneward/INFO330-ExploringRelations2).
